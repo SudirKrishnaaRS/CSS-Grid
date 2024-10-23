@@ -13,3 +13,10 @@ body {
   grid-template-rows: repeat(5, 100px);
   grid-template-columns: repeat(5, 100px);
 }
+
+.item {
+  background-color: #858cc9;
+  border: 3px solid #606591;
+  border-radius: 15%;
+  padding: 5px;
+}
