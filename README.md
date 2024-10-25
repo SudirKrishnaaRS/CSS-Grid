@@ -26,7 +26,6 @@ CSS Grid is a layout system for creating complex web layouts easily. It works by
 1. **Creating a Grid Container**
     
     ```css
-    
     .container {
       display: grid;
       grid-template-columns: 100px 200px 1fr;
@@ -46,9 +45,7 @@ CSS Grid is a layout system for creating complex web layouts easily. It works by
     - Allows repeated patterns without manually specifying each column/row.
     
     ```css
-    
     grid-template-columns: repeat(3, 100px);
-    
     ```
     
 
